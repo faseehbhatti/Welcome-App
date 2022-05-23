@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageViewApp_Bhatti</string>
+    <string name="welcome_to_android_app_development">Welcome to Android App Development</string>
+    <string name="todo">TODO</string>
+</resources>
